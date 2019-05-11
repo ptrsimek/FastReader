@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastReader", "FastReader\FastReader.csproj", "{337DA538-0019-4DA0-90B4-A0D2C4811464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastReader.Tests", "FastReader.Tests\FastReader.Tests.csproj", "{AE5F93E9-B0F6-4C92-B702-9B46B56EC4BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{337DA538-0019-4DA0-90B4-A0D2C4811464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337DA538-0019-4DA0-90B4-A0D2C4811464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{337DA538-0019-4DA0-90B4-A0D2C4811464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{337DA538-0019-4DA0-90B4-A0D2C4811464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5F93E9-B0F6-4C92-B702-9B46B56EC4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5F93E9-B0F6-4C92-B702-9B46B56EC4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5F93E9-B0F6-4C92-B702-9B46B56EC4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5F93E9-B0F6-4C92-B702-9B46B56EC4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9EA22D4-51CA-433D-A32C-8C7D530482FC}
+	EndGlobalSection
+EndGlobal
